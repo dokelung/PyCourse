@@ -15,9 +15,7 @@
 | 5 |  | [P-L5: List](Programming/P-Lesson-5-list.ipynb) | | |
 | 6 |  | [P-L6: Dictionary](Programming/P-Lesson-6-dict.ipynb) | | |
 | 7 |  | [P-L7: String](Programming/P-Lesson-7-str.ipynb) | | |
-|  |  | P-L6: OOP-Encapsulation |  |  |
-|  |  | P-L7: OOP-Inheritance |  |  |
-|  |  | P-L8: OOP-Polymorphism |  |  |
+| 8 |  | [P-L8: Exceptions](Programming/P-Lesson-8-exceptions.ipynb) | | [test.txt](Attachments/test.txt) |
 
 ## Solutions
 
