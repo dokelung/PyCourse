@@ -16,6 +16,7 @@
 | 6 |  | [P-L6: Dictionary](Programming/P-Lesson-6-dict.ipynb) | | |
 | 7 |  | [P-L7: String](Programming/P-Lesson-7-str.ipynb) | | |
 | 8 |  | [P-L8: Exceptions](Programming/P-Lesson-8-exceptions.ipynb) | | [test.txt](Attachments/test.txt) |
+| 9 |  | [P-L9: Module and Package](Programming/P-Lesson-9-module-and-package.ipynb) | | |
 
 ## Solutions
 
